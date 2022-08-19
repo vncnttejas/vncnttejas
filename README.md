@@ -2,4 +2,4 @@
 
 I'm Vincent and I go by `vncnttejas` online in most places. I have built, and more importantly, helped others build computer programs over the past decade.
 
-I work at [CondéNast Technology Labs](https://www.condenast.com/), Bangalore.
+I work at CondéNast Technology Labs, Bangalore.
